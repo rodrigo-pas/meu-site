@@ -75,9 +75,9 @@ footer {
 }
 
 .video-container video {
-    width: 75%;
-    max-width: 244px;
+    width: 100%;
+    max-width: 280px; /* Reduz a largura para vídeos verticais */
     height: auto;
-    max-height: 128px;
-    object-fit: cover;
+    max-height: 500px; /* Define uma altura máxima menor */
+    object-fit: contain; /* Preserva o aspecto do vídeo */
 }
