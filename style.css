@@ -78,6 +78,6 @@ footer {
     width: 100%;
     max-width: 560px;
     height: auto;
-    max-height: 315px; /* Limita a altura para evitar um formato muito vertical */
-    object-fit: cover; /* Ajusta o vídeo para ocupar a área de visualização sem distorção */
+    max-height: 315px;
+    object-fit: cover;
 }
