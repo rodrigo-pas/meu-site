@@ -70,13 +70,13 @@ footer {
 
 /* Videos */
 .video-container {
-    margin: 20px 0;
+    margin: 50px 0;
     text-align: left;
 }
 
 .video-container video {
     width: 100%;
-    max-width: 280px; /* Reduz a largura para vídeos verticais */
+    max-width: 560px; /* Reduz a largura para vídeos verticais */
     height: auto;
     max-height: 560px; /* Define uma altura máxima menor */
     object-fit: contain; /* Preserva o aspecto do vídeo */
