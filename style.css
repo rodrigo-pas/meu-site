@@ -75,9 +75,9 @@ footer {
 }
 
 .video-container video {
-    width: 100%;
-    max-width: 560px;
+    width: 75%;
+    max-width: 280px;
     height: auto;
-    max-height: 315px;
+    max-height: 160px;
     object-fit: cover;
 }
